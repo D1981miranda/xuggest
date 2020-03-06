@@ -1,3 +1,5 @@
+### 
 Xuggest_
+Demo autocomplete algorithms with this cmd line wrapper.
 
-Experiment with with your autosuggest model, with this
+Build on ncurses.
