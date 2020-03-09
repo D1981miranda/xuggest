@@ -1,5 +1,1 @@
-### Xuggest_
-
-Demo autocomplete algorithms with this cmd line wrapper.
-
-Build on ncurses.
+A reference implemenation for a command line autosugget experiment UI
