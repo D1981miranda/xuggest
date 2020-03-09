@@ -41,9 +41,8 @@ class Display:
   
         def make_results_string(results: List[str]) -> str:
             return '\n'.join(word for word in results)
-        def search_input_handler(widget, search_term):
-
-            # find term in search box
+       
+       def search_input_handler(widget, search_term):
             
             results = self.suggest.get_prefix_children(search_term)
             result_string = make_results_string(results)
