@@ -1,1 +1,3 @@
-A reference implemenation for a command line autosugget experiment UI
+A reference implemenation for a command line autosugget experiment UI.
+
+Build on urwin
